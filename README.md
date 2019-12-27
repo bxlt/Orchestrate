@@ -1,6 +1,5 @@
 # team09 - Orchestrate
 
-# Use final branch for deployment code, use this branch for local editing
 ## Local:
 ### node server.js
 ### npm start
